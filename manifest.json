@@ -1,0 +1,18 @@
+{
+  "name": "Trà Dược Bảo Vệ Sức Khỏe & Phòng Chữa Bệnh",
+  "short_name": "Trà Dược",
+  "description": "Sổ tay tra cứu 74 nhóm bệnh & gần 400 bài trà dược cổ truyền – Hữu Ninh (NXB Y Học).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#1B4D3E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
